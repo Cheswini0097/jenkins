@@ -6,5 +6,9 @@ types of build trigers
       1:build-periodically: these build trigers, helps to triger the job useing the syntax cron expression, these syntax helps to triger and build the job periodically
 
       2: poolscm : in this build triger works based on the changes or commit, and it will configured to check  the changes every 5 minutes
-      
-        
+	  
+	  cron syntax   every 2 minutes */2 * * * *
+	  cron syntax fro every 5 minutes  */5 * * * *
+	  
+	  
+                                
