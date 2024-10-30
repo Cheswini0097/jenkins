@@ -1,0 +1,10 @@
+Jenkins: jenkins is the open source automation server helps to automate the sofware developement process like build,testing and deploment
+
+build trigers: build trigers in the jenkis is the mechanism that intiate  the jobs to automate,
+
+types of build trigers
+      1:build-periodically: these build trigers, helps to triger the job useing the syntax cron expression, these syntax helps to triger and build the job periodically
+
+      2: poolscm : in this build triger works based on the changes or commit, and it will configured to check  the changes every 5 minutes
+      
+        
